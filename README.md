@@ -1,2 +1,2 @@
 # Finity V2
-Best UI LIbrary Epic Yes
+A fork of detouriour's FinityV2 Library, all credit goes to him, small changes *might* be made.
